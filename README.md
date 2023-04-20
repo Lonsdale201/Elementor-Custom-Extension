@@ -8,3 +8,6 @@ This tiny addition, for column and sections, adds a new Custom Link field in the
 HUN
 
 Ez az apró kiegészítő, az oszlop és szakaszokhoz, a haladó fülön hozzáad egy új Custom Link mezőt, ahova megadhatsz linket. Ezáltal, az oszlopok, és szakaszok linkelhetővé válnak. Epro Dinamikus funkciót jelenleg nem tartalmaz.
+
+
+Mennyj az oszlop, vagy szakasz haladó beállításaihoz, és keresd meg a Custom link tabot. Ott találod a link inputot, ahova be tudod állítani a linket.

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Link Extension
  * Description: Adds a custom link field to Elementor columns and sections. Flex container and dnyamic cap not supported yet.
- * Version: 1.0
+ * Version: 1.5
  * Author: Soczó Kristóf
  */
 
@@ -93,5 +93,5 @@ function enqueue_elementor_link_extension_script() {
             } );
         } );
     </script>
-    <?php
+<?php
 }
